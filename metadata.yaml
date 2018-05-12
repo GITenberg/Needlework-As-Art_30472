@@ -1,0 +1,28 @@
+_repo: Needlework-As-Art_30472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alford, Marianne Margaret Compton Cust, Viscountess
+    birthdate: 1817
+    deathdate: 1888
+    gutenberg_agent_id: '26839'
+    url: http://www.gutenberg.org/2009/agents/26839
+    wikipedia: https://en.wikipedia.org/wiki/Maria_Alford
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2009-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Needlework'
+title: Needlework As Art
+url: http://www.gutenberg.org/ebooks/30472
